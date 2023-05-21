@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Huỳnh Đức Ceo	</title>
+	Bình luận cho 	</title>
 	<atom:link href="https://huynhducc.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://huynhducc.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Mon, 08 May 2023 09:11:31 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 May 2023 08:08:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 </channel>
 </rss>
